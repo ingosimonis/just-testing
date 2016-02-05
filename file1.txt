@@ -2,3 +2,4 @@ first line new file
 new second line
 and now a third line
 plus a fourth line
+and a fifth line
